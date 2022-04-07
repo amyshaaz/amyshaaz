@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @amyshaaz
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on app developers
-- 📫 How to reach me 9910982503
+The purpose of this directory is to house the JavascriptDemo.c4z driver which is referenced in the DriverWorks Proxy and Protocol Guide's UI Button Proxy section.
 
-<!---
-amyshaaz/amyshaaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+To use this driver:
+1. Download the Javascript API driver and add it to your project.
+2. Under the Project’s System Design, select the room where the driver was added.
+3. Under the Room’s Properties select Navigator.
+4. Note the that the demo driver (UI Button) is listed under the Device column in the following Experience Menus: Comfort, Listen, Security and Watch.
+5. Ensure that UI Button has a Visibility status of Visible in each of the Experience menus. The status can be changed by clicking on the Modify … button on the Properties screen.
+6. Refresh Navigators.
